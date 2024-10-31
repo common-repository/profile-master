@@ -1,0 +1,25 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" width="47" height="47">
+	<title>icon (1)-svg</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 5c0-2.76 2.24-5 5-5h37c2.76 0 5 2.24 5 5v37c0 2.76-2.24 5-5 5h-37c-2.76 0-5-2.24-5-5z"/>
+		</clipPath>
+		<linearGradient id="g1" x1="57.9" y1="-21" x2="-16.2" y2="-14.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#e2c4ff"/>
+			<stop offset="1" stop-color="#1c1790"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: url(#g1) } 
+		.t1 { font-size: 11px;fill: #000000;font-weight: 400;font-family: "DejaVuSans", "DejaVu Sans" } 
+	</style>
+	<g clip-path="url(#cp1)">
+		<path id="Layer" class="s0" d="m0 5c0-2.8 2.2-5 5-5h37c2.8 0 5 2.2 5 5v37c0 2.8-2.2 5-5 5h-37c-2.8 0-5-2.2-5-5z"/>
+		<text id="Profile Master" style="transform: matrix(1,0,0,1,0,11)" >
+			<tspan x="6.4" y="8.4" class="t1">P</tspan><tspan  y="8.4" class="t1">r</tspan><tspan  y="8.4" class="t1">o</tspan><tspan  y="8.4" class="t1">file </tspan>
+			<tspan x="4.7" y="21.6" class="t1">Maste</tspan><tspan  y="21.6" class="t1">r</tspan><tspan  y="21.6" class="t1">
+</tspan>
+		</text>
+	</g>
+</svg>

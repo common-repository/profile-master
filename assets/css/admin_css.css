@@ -1,0 +1,20 @@
+.wps-presentation-color-repeater .color-repeater-row{
+	display: flex;
+}
+.wps-presentation-color-repeater  .wps_presentation_remove_color{
+	padding:4px 10px;
+	border: 1px solid #c8c8c8;
+	line-height: 4px;
+	background: #ffffff;
+	color: #5c5c5c;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+.wps-presentation-color-repeater label{
+	margin-right:8px;
+}
+
+.wps_adming_area{
+	background:#fff;
+	padding:30px;
+}
